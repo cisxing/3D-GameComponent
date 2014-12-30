@@ -1,0 +1,31 @@
+﻿Build started 12/9/2014 1:25:08 AM.
+     1>Project "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Projects\l01_Triangle\l01_Triangle.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\l01_Triangle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+     1>c:\users\xinyunxing\desktop\aitgraphics-hello\projects\l01_triangle\src\stb_image.c(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\xinyunxing\desktop\aitgraphics-hello\projects\l01_triangle\src\stb_image.c(621): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\xinyunxing\desktop\aitgraphics-hello\projects\l01_triangle\src\stb_image.c(659): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\xinyunxing\desktop\aitgraphics-hello\projects\l01_triangle\src\stb_image.c(4552): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Release\l01_Triangle.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\l01_Triangle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Release\l01_Triangle.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Release\l01_Triangle.lib" /MACHINE:X86 Release\main.obj
+         Release\Mesh.obj
+         Generating code
+         Finished generating code
+         l01_Triangle.vcxproj -> C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Release\l01_Triangle.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Release\l01_Triangle.exe;#1" /manifest Release\l01_Triangle.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\l01_Triangle.unsuccessfulbuild".
+         Touching "Release\l01_Triangle.lastbuildstate".
+     1>Done Building Project "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Projects\l01_Triangle\l01_Triangle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.87

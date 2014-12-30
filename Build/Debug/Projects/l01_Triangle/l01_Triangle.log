@@ -1,0 +1,20 @@
+﻿Build started 9/19/2014 12:19:19 PM.
+     1>Project "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Projects\l01_Triangle\l01_Triangle.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\l01_Triangle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\\" /Fd"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Bin\Debug\Projects\l01_Triangle\l01_Triangle.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\l01_Triangle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Bin\Debug\Projects\l01_Triangle\l01_Triangle.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Bin\Debug\Projects\l01_Triangle\l01_Triangle.lib" /MACHINE:X86 "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\main.obj"
+         l01_Triangle.vcxproj -> C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Bin\Debug\Projects\l01_Triangle\l01_Triangle.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Bin\Debug\Projects\l01_Triangle\l01_Triangle.exe;#1" /manifest "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\l01_Triangle.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\l01_Triangle.unsuccessfulbuild".
+         Touching "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Build\Debug\Projects\l01_Triangle\l01_Triangle.lastbuildstate".
+     1>Done Building Project "C:\Users\xinyunxing\Desktop\AitGraphics-Hello\Projects\l01_Triangle\l01_Triangle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.06
